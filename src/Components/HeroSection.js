@@ -23,7 +23,7 @@ const HeroSection = () => {
             <p>You Know What It Is My First Turn To Play With ReactJs & Its Not Looking Good <br/>But After More Practice I will Build Great & Beautiful Applications</p>
             <button style={{
                 backgroundColor: "#26ae60",
-                padding: "10px 100px",
+                padding: "10px 120px",
                 fontSize: "20px",
                 color: "#FFF",
                 border: `${currentTheme.border}`,
